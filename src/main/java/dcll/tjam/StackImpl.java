@@ -5,7 +5,6 @@ import java.util.EmptyStackException;
 
 public class StackImpl implements SimpleStack {
 
-//    private int size;
     private ArrayList<Item> stack = new ArrayList<Item>();
 
     /**

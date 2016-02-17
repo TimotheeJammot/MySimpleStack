@@ -18,7 +18,7 @@ public class StackImplTest {
         s.push(new Item("OK"));
         assertFalse(s.isEmpty());
 
-    }
+    } 
 
     @Test
     public void testGetSize() throws Exception {
